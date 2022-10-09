@@ -6,6 +6,8 @@
 // @author      tanhaworen
 // @description 2/8/2022, 6:40:34 PM
 // @match      https://*.wikipedia.org/wiki/*
+// @downloadURL  https://github.com/jahanzebshayan/wikipedia-table-header-float/raw/main/script.js
+// @updateURL    https://github.com/jahanzebshayan/wikipedia-table-header-float/raw/main/script.js
 // @run-at     document-start
 // @license      GNU GPLv2
 // ==/UserScript==
